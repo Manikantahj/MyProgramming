@@ -21,8 +21,13 @@ using MyProgramming.MarchProgramming;
 
 class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Day1Program.SwapNumbers();
+        //Day2FindDuplicateElementInGivenArray.FindDuplicateElement();
+
+        //Day2Patterns res = new Day2Patterns();
+        //res.printPatterns();
+
+        Day2ReverseStringProgram.PrintsmallestElement();
     }
 }
