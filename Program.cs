@@ -28,6 +28,8 @@ class Program
         //Day2Patterns res = new Day2Patterns();
         //res.printPatterns();
 
-        Day2ReverseStringProgram.PrintsmallestElement();
+        // Day2ReverseStringProgram.PrintsmallestElement();
+
+        Day3Array.WriteAndReadElementsInArray();
     }
 }
