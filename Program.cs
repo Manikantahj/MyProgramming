@@ -30,6 +30,8 @@ class Program
 
         // Day2ReverseStringProgram.PrintsmallestElement();
 
-        Day3Array.WriteAndReadElementsInArray();
+        // Day3Array.WriteAndReadElementsInArray();
+
+        Day5Array.DisplayOddIndx();
     }
 }
