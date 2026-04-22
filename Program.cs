@@ -32,6 +32,8 @@ class Program
 
         // Day3Array.WriteAndReadElementsInArray();
 
-        Day5Array.DisplayOddIndx();
+        // Day5Array.DisplayOddIndx();
+
+        Day6Array.demo();
     }
 }
